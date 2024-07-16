@@ -1,4 +1,7 @@
 # 42core
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 Repository of 42 projects passed with 100% and bonuses done.
 42core was created with an idea to inspire other 42 students during their Main Cursus.
 Please note that this code __should__ not be copied. Rather it is supposed to support the thought proccess when solving programming problems.
